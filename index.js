@@ -1,4 +1,3 @@
-
 function produceDrivingRange(blockRange){
   return function(a, b){
     let start = parseInt(a)
